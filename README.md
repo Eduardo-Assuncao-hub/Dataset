@@ -33,10 +33,10 @@ The files are organized like the folder tree below:
 
 ```
 __________________________________________________________________________________________________________________________________________________________
-Example of ****Catherine cultivar*** test image and its box annotations.
+Example of ***Catherine cultivar*** test image and its box annotations.
 ![Test_CTR_10](https://user-images.githubusercontent.com/100839988/168625018-3f6edaa8-b7a4-4040-b20b-a9eeeb860c52.jpg)
 
-Example of ****Royal time cultivar*** test image and its box annotations.
+Example of ***Royal time cultivar*** test image and its box annotations.
 ![Test_RT_51](https://user-images.githubusercontent.com/100839988/168625137-fe1abbcf-1f65-43ec-9ae0-0c3d617cd82e.jpg)
 
 Example of ***Sweet dream cultivar*** test image and its box annotations.
