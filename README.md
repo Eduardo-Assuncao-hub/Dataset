@@ -4,28 +4,28 @@
 .
 ├── Test
 │   ├── Catherine
-│   │   ├── Annot
+│   │   ├── Annotation
 │   │   ├── Images
 │   │   └── Statistic
 │   ├── Royal Time
-│   │   ├── Annot
+│   │   ├── Annotation
 │   │   ├── Images
 │   │   └── Statistic
 │   └── Sweet Dream
-│       ├── Annot
+│       ├── Annotation
 │       ├── Images
 │       └── Statistic
 └── Train
     ├── Catherine
-    │   ├── Annot
+    │   ├── Annotation
     │   ├── Images
     │   └── Statistic
     ├── Royal Time
-    │   ├── Annot
+    │   ├── Annotation
     │   ├── Images
     │   └── Statistic
     └── Sweet Dream
-        ├── Annot
+        ├── Annotation
         ├── Images
         └── Statistic
 
