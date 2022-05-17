@@ -39,6 +39,18 @@ Example of ***Royal time cultivar*** test image (Test_RT_51.jpg) and its box ann
 Example of ***Sweet dream cultivar*** test image (Test_SD_1.jpg) and its box annotations.
 ![Test_SD_1](https://user-images.githubusercontent.com/100839988/168625172-e93f8f81-81a1-44a9-a501-0a47b6b6e387.jpg)
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+| Split          | Cultivar    |  | Images | Labels |
+|----------------|-------------|--|--------|--------|
+| Train          | Sweet Dream |  | 270    | 2015   |
+|                | Royal Time  |  | 248    | 1066   |
+|                | Catherine   |  | 305    | 4564   |
+| Test           | Sweet Dream |  | 66     | 453    |
+|                | Royal Time  |  | 63     | 270    |
+|                | Catherine   |  | 76     | 1480   |
+| Total of train |             |  | 823    | 7645   |
+| Total of test  |             |  | 205    | 2203   |
 
 
 
