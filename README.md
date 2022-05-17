@@ -41,17 +41,6 @@ Example of ***Sweet dream cultivar*** test image (Test_SD_1.jpg) and its box ann
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-|||||
-|--- |--- |--- |--- |
-|Split|Cultivar|Images|Labels|
-|>|Sweet Dream|270|2015|
-|Train|Royal Time|248|1066|
-||Catherine|305|4564|
-||Sweet Dream|66|453|
-|Test|Royal Time|63|270|
-||Catherine|76|1480|
-|Total of train||823|7645|
-|Total of test||205|2203|
-
+![Dataset](https://user-images.githubusercontent.com/100839988/168843942-aa632486-ead4-462e-8722-2fb3707d5baf.png)
 
 
