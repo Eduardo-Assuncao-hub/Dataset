@@ -44,7 +44,7 @@ Example of ***Sweet dream cultivar*** test image (Test_SD_1.jpg) and its box ann
 |||||
 |--- |--- |--- |--- |
 |Split|Cultivar|Images|Labels|
-||Sweet Dream|270|2015|
+|>|Sweet Dream|270|2015|
 |Train|Royal Time|248|1066|
 ||Catherine|305|4564|
 ||Sweet Dream|66|453|
