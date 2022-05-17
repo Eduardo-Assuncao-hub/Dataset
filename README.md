@@ -43,9 +43,9 @@ Example of ***Sweet dream cultivar*** test image (Test_SD_1.jpg) and its box ann
 
 | Split          | Cultivar    |  | Images | Labels |
 |----------------|-------------|--|--------|--------|
-| Train          | Sweet Dream |  | 270    | 2015   |
-|                | Royal Time  |  | 248    | 1066   |
-|                | Catherine   |  | 305    | 4564   |
+  Train          | Sweet Dream |  | 270    | 2015   |
+                 | Royal Time  |  | 248    | 1066   |
+                 | Catherine   |  | 305    | 4564   |
 |----------------|-------------|--|--------|--------|
 | Test           | Sweet Dream |  | 66     | 453    |
 |                | Royal Time  |  | 63     | 270    |
