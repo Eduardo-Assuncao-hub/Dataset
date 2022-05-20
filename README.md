@@ -1,5 +1,5 @@
 # Peach Cultivars Dataset
-This dataset contains field images (.jpg) of three peach cultivars: catherine, royal time, and sweet drea. File annotations (.xml) for each image and files (.csv) with information about the annotations.
+This dataset contains field images (.jpg) of three peach cultivars: catherine, royal time, and sweet drea. File annotations (.xml) for each image and files (.csv) with information about the annotations. The images have three channels (RGB) and a dimension of 640x480.
 The files are organized like the folder tree below: 
 
 ```
