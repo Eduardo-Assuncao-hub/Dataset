@@ -30,7 +30,7 @@ The files are organized like the folder tree below:
 
 ```
 The following table describes the division of the dataset into training and test data, the number of images for each variety (cultivar), and the number of fruit labels.  
-![Dataset](https://user-images.githubusercontent.com/100839988/168843942-aa632486-ead4-462e-8722-2fb3707d5baf.png|width=100px)
+![Dataset](https://user-images.githubusercontent.com/100839988/168843942-aa632486-ead4-462e-8722-2fb3707d5baf.png|width=50px)
 __________________________________________________________________________________________________________________________________________________________
 Example of ***Catherine cultivar*** test image (Test_CTR_10.jpg) and its box annotations.
 ![Test_CTR_10](https://user-images.githubusercontent.com/100839988/168625018-3f6edaa8-b7a4-4040-b20b-a9eeeb860c52.jpg)
