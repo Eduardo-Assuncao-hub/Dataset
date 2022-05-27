@@ -27,6 +27,9 @@ The files are organized like the folder tree below:
     │   ├── Images
     │   └── Information
     └── Sweet Dream
+        ├── Annotation
+        ├── Images
+        └── Information
 
 ```
 The following table describes the division of the dataset into training and test data, the number of images for each variety (cultivar), and the number of fruit labels.  
