@@ -1,5 +1,5 @@
 # Peach Cultivars Dataset (PCD)
-The Peach dataset is the outcome of a collaboration between academics from the University of Beira Interior (Portugal) and the Polytechnic Institute of Castelo Branco (Portugal) to enable peach detection study using data from three different cultivars: catherine, royal time, and sweet dream. The dataset contains field images (.jpg), file annotations (.xml) for each image and files (.csv) with information about the annotations. The images have three channels (RGB) and a dimension of 640x480.
+The **PCD** is the outcome of a collaboration between academics from the University of Beira Interior (Portugal) and the Polytechnic Institute of Castelo Branco (Portugal) to enable peach detection study using data from three different cultivars: catherine, royal time, and sweet dream. The dataset contains field images (.jpg), file annotations (.xml) for each image and files (.csv) with information about the annotations. The images have three channels (RGB) and a dimension of 640x480.
 The files are organized like the folder tree below: 
 
 ```
