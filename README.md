@@ -55,7 +55,7 @@ The next three images are examples from the test split data. The rectangular box
 
 
 ## Citation
-# Please cite this dataset as:
+Please cite this dataset as:
 
 Assunção, E.; Gaspar, PD; Alibabaei, K.; Simões, MP; Proença, H.; Soares, VNGJ; Caldeira, JMLP Detecção de Imagem em Tempo Real para Dispositivos Edge: Uma Aplicação de Detecção de Frutos de Pêssego. Future Internet 2022 , 14 , 323. https://doi.org/10.3390/fi14110323
 
